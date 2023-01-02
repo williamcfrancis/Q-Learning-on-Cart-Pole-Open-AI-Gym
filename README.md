@@ -1,4 +1,4 @@
-# Q-Learning on the Cart-Pole problem
+# Q-Learning on the Cart-Pole Challenge
 The Cart-Pole, also known as an inverted pendulum, is a system with a center of gravity above its pivot point. It's unstable by nature, but can be controlled by moving the pivot point under the center of mass. The goal is to keep the Cart-Pole balanced by applying appropriate forces to the pivot point.
 
 You can try it out yourself [here](https://jeffjar.me/cartpole.html) before diving into the reinforcement learning (RL) algorithm used in this project, Q-Learning.
